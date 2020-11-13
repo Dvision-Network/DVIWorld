@@ -1,6 +1,6 @@
 # DVIWorld
 
-### Main Homepage
+### Multiverse
 https://www.multiverse.so/play
 
 ### 1. 회원가입 API
